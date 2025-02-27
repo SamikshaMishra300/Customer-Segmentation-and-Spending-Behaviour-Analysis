@@ -53,7 +53,8 @@ This project answers key questions about customer behaviour:
 ## 📊 Dashboard Analysis & Insights
 
 [Customer Segmentation Dashboard]
-([https://raw.githubusercontent.com/SamikshaMishra300/Customer-Segmentation-and-Spending-Behaviour-Analysis/blob/main/Picture%201.png)
+
+(https://raw.githubusercontent.com/SamikshaMishra300/Customer-Segmentation-and-Spending-Behaviour-Analysis/blob/main/Picture%201.png)
 
 ### **Customer Segmentation Trends**
 - Customers aged **18-30** spend more, making them ideal for promotions.
