@@ -51,7 +51,9 @@ This project answers key questions about customer behaviour:
 - **Segment C & D**: More budget-conscious, respond to **discounts**.
 
 ## 📊 Dashboard Analysis & Insights
-https://github.com/SamikshaMishra300/Customer-Segmentation-and-Spending-Behaviour-Analysis/blob/main/Picture%201.png
+
+![Customer Segmentation Dashboard]([https://raw.githubusercontent.com/SamikshaMishra300/Customer-Segmentation-and-Spending-Behaviour-Analysis/blob/main/Picture%201.png)
+
 ### **Customer Segmentation Trends**
 - Customers aged **18-30** spend more, making them ideal for promotions.
 - Older customers (50+) respond well to **loyalty incentives**.
