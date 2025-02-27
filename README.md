@@ -15,10 +15,14 @@ This **Tableau dashboard** offers a data-driven analysis of customer segmentatio
 This project answers key questions about customer behaviour:
 
 1. How are customers segmented based on demographics and spending behaviour?
-2. Which age groups, professions, or marital statuses correlate with high spending scores?
+![Image](https://github.com/user-attachments/assets/7a941054-b89b-46c9-b158-eeca43351a02)
+
+3. Which age groups, professions, or marital statuses correlate with high spending scores?
+![Image](https://github.com/user-attachments/assets/eb4a6ec2-5e90-4734-8cc0-02b36e7f63c2)
+
 3. What are the spending habits of different customer groups?
 4. How can businesses use segmentation insights to improve marketing effectiveness?
-5. Which customer segments are most likely to respond to promotions and loyalty programs?
+5.  Which customer segments are most likely to respond to promotions and loyalty programs?
 
 ## 📂 Dataset Details
 - **Total Customers**: 6,665
@@ -38,6 +42,7 @@ This project answers key questions about customer behaviour:
 ## 🔍 Insights Derived
 ### **Age & Spending Patterns**
 - Customers aged **18-30** have higher spending scores, making them ideal for promotions.
+![Image](https://github.com/user-attachments/assets/217d0997-138d-4044-a063-7a66279771c5)
 - Older customers (50+) respond well to **loyalty programs**.
 
 ### **Family Size & Budget Allocation**
@@ -62,6 +67,7 @@ This project answers key questions about customer behaviour:
 
 ### **Spending Trends by Demographics**
 - **Profession & income level** strongly influence purchasing power.
+![Image](https://github.com/user-attachments/assets/df839325-0b5a-4f71-8a32-e86877e6d5af)
 - **Family size** affects budget allocation for **essentials vs. luxury items**.
 
 ### **High-Value Customers**
@@ -71,7 +77,13 @@ This project answers key questions about customer behaviour:
 ### **Loyalty & Retention Insights**
 - **High-spending customers** should be rewarded with **exclusive deals & premium services**.
 - **Budget-conscious customers** respond better to **discounts & free trials**.
+  
+### **Spending Behaviour by Segments**
+![Image](https://github.com/user-attachments/assets/1eed497c-6d97-4aeb-ae2b-05410ca18ef5)
 
+### **Work Experience & Purchasing Power**
+Customers with **5+ years of work experience** have **higher disposable income** and spending scores.
+![Image](https://github.com/user-attachments/assets/e00b326f-75b3-4539-a1c8-640d224e9c88)
 ---
 
 ## 📢 **Marketing Strategy Insights**
