@@ -128,7 +128,7 @@ Customers with **5+ years of work experience** have **higher disposable income**
 
 1. Risk Segmentation: Adjust credit limits and offers based on profession and experience-based behavioral tiers
 
-2, Loyalty Programs: Target Segment C with retention-focused rewards to boost lifetime value
+2.  Loyalty Programs: Target Segment C with retention-focused rewards to boost lifetime value
 
 3. Product Positioning: Design tiered pricing models for different experience and income segments, optimize bundles for married users
 
