@@ -126,17 +126,10 @@ Customers with **5+ years of work experience** have **higher disposable income**
 
 ## 📌 **Recommendations**
 
-### **For Marketing Teams**
-1. Implement **targeted promotions** based on demographic insights.
-2. Create **customized marketing strategies** for different age groups and professions.
-3. Focus on **high-spending customers** with exclusive discounts and loyalty perks.  
+1. Risk Segmentation: Adjust credit limits and offers based on profession and experience-based behavioral tiers
 
-### **For Business Strategy & Sales**
-- Optimize **product pricing and promotions** based on spending behaviour.  
-- Use **segmentation insights** to refine product recommendations.  
-- Offer **flexible pricing and payment options** for different customer groups.  
+2, Loyalty Programs: Target Segment C with retention-focused rewards to boost lifetime value
 
-### **For Customer Retention & Engagement**
-1. Introduce **multi-tier loyalty programs** to encourage repeat purchases.  
-2. Personalize communication via **email, social media, and SMS** to improve engagement.  
-3. Monitor **customer lifetime value (CLV)** to identify high-value customers.  
+3. Product Positioning: Design tiered pricing models for different experience and income segments, optimize bundles for married users
+
+4. Campaign Alignment: Leverage high-spend age brackets and professions for upsell and cross-sell strategies across savings, credit, and investment accounts. 
