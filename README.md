@@ -70,7 +70,8 @@ This project answers key questions about customer behaviour:
 
 [Customer Segmentation Dashboard]
 
-![Image](https://github.com/user-attachments/assets/bcf7ba79-1ea1-48a5-8029-e38eafb9b847)
+![picture](https://github.com/user-attachments/assets/4df0172a-e75f-42b2-a0a0-9906356bacd4)
+
 
 ### **Customer Segmentation Trends**
 - Customers aged **18-30** spend more, making them ideal for promotions.
@@ -90,11 +91,12 @@ This project answers key questions about customer behaviour:
 - **Budget-conscious customers** respond better to **discounts & free trials**.
   
 ### **Spending Behaviour by Segments**
-![Image](https://github.com/user-attachments/assets/1eed497c-6d97-4aeb-ae2b-05410ca18ef5)
+![pic 2](https://github.com/user-attachments/assets/634726eb-9469-444d-abcb-410a04ae77d6)
 
 ### **Work Experience & Purchasing Power**
 Customers with **5+ years of work experience** have **higher disposable income** and spending scores.
-![Image](https://github.com/user-attachments/assets/e00b326f-75b3-4539-a1c8-640d224e9c88)
+
+![pic3](https://github.com/user-attachments/assets/212b8464-ae24-446b-aa27-eb4053d72c71)
 ---
 
 ## 📢 **Marketing Strategy Insights**
