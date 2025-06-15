@@ -1,4 +1,4 @@
-# Customer Segmentation and Spending Behaviour Analysis
+# Customer Segmentation and Credit Utilisation Analysis
 
 # Business Problem & Solution
 
